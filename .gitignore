@@ -1,0 +1,55 @@
+# --- MIMIC-IV Raw & Processed Data (DO NOT COMMIT - Restricted Clinical Data) ---
+data/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.venv
+venv/
+env/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- PyTorch / Model Files ---
+src/models/*.pt
+src/models/*.pth
+*.pkl
+
+# --- LaTeX Build Artifacts ---
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.listing
+*.synctex.gz
+
+# --- Output Files (Large, Generated) ---
+outputs/results/*.csv
+outputs/**/*.npy
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Misc ---
+pdf_text.txt
+*.tmp
