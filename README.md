@@ -87,11 +87,9 @@ python src/07_model_ensemble.py     # Build weighted ensemble
 
 An R² of ~0.50 in ICU hemodynamic forecasting is considered **highly significant**. In the intensive care setting, the remaining variance is primarily explained by unmeasured physiological factors (e.g., autonomic reflexes) and spontaneous variation — sources of noise that no non-invasive EHR-based model can fully capture.
 
-
-
 ---
 
 ## Author
 
 **Irine Maria Jose**  
-Technical Research Report — MIMIC-IV Hemodynamic Forecasting
+Technical Research Report — MIMIC-IV Time Series Forecasting
