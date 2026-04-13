@@ -89,7 +89,3 @@ An R² of ~0.50 in ICU hemodynamic forecasting is considered **highly significan
 
 ---
 
-## Author
-
-**Irine Maria Jose**  
-Technical Research Report — MIMIC-IV Time Series Forecasting
